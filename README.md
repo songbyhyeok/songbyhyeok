@@ -1,4 +1,10 @@
-### Hi there 👋
+#### 반갑습니다.
+#### 제 이름은 남궁혁입니다.
+#### 현재 방송 통신 대학교 3학년 편입 중이고 백엔드 취업 준비 중입니다.
+#### 항상 넓은 시야를 확보하기 위해 호기심을 가지고 학습에 몰두하고 있습니다!
+
+### 기술 스택
+#### 자바
 
 <!--
 **songbyhyeok/songbyhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
