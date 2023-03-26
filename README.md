@@ -11,6 +11,8 @@
 ### 기타
 <!-- 블로그 주소 --> <a href="https://blog.naver.com/songbyhyeok"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/songbyhyeok"/></a> <!-- 이메일 주소 --> <a href="mailto:songbyhyeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=songbyhyeok@gmail.com"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **songbyhyeok/songbyhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
