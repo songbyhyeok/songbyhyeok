@@ -1,12 +1,14 @@
-#### 반갑습니다.
-#### 제 이름은 남궁혁입니다.
-#### 현재 방송 통신 대학교 3학년 편입 중이고 백엔드 취업 준비 중입니다.
-#### 항상 넓은 시야를 확보하기 위해 호기심을 가지고 학습에 몰두하고 있습니다!
+### 자기 소개
+##### 안녕하세요.
+##### 제 이름은 남궁혁입니다.
+##### 현재 방송 통신 대학교 3학년 편입 중이고 백엔드 취업 준비 중입니다.
+##### 항상 넓은 시야를 확보하기 위해 호기심을 가지고 학습에 몰두하고 있습니다!
 
 ### 기술 스택
-#### 자바
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <!-- C --> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <!-- C++ --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <!-- JavaScript -->
 
-<a href="mailto:songbyhyeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=songbyhyeok@gmail.com"/></a>
+### 기타
+<!-- 블로그 주소 --> <a href="https://blog.naver.com/songbyhyeok"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/songbyhyeok"/></a> <!-- 이메일 주소 --> <a href="mailto:songbyhyeok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=songbyhyeok@gmail.com"/></a>
 
 <!--
 **songbyhyeok/songbyhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
