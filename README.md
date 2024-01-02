@@ -14,6 +14,7 @@
 
 <div>
   <!-- C++ --> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <!-- Python --> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <!-- Linux --> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
@@ -21,9 +22,20 @@
 <div>
   <!-- C# --> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <!-- MySQL --> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- Oracle --> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <!-- Unity --> <img src="https://img.shields.io/badge/Unity-6DB33F?style=for-the-badge&logo=Unity&logoColor=white"/>
 </div>
-  
+
+<div>
+<!-- Html --> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<!-- Css --> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<!-- React --> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</div>
+
+<div>
+<!-- React --> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+</div>
+
 &nbsp;
 
 ### 접촉
