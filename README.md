@@ -1,12 +1,4 @@
-안녕하세요,  
-백엔드 개발자 혁입니다!  
-`"시작이 반이다"라는 말처럼, 저는 일단 시작하는 것을 중요하게 생각합니다.`  
-`결과에 연연하기보다는 과정에서 얻는 경험과 배움을 바탕으로 사회에 필요한 프로그램을 만들고 싶습니다`  
-감사합니다.
-
-
-### 통계
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songbyhyeok)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songbyhyeok)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songbyhyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
