@@ -1,5 +1,8 @@
+# Hyeok Namgung <g-emoji alias="star2" fallback-src="https://github.githubassets.com/assets/1f31f-de197e7946ef.png">🌟</g-emoji>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songbyhyeok)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songbyhyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songbyhyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songbyhyeok)](https://solved.ac/songbyhyeok/)  
 
 
 <!--
